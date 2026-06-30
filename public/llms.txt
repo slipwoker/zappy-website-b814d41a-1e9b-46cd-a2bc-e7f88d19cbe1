@@ -1,0 +1,86 @@
+# Seylous FM — Generative Engine Optimization Map
+
+> Fiveam (פייבאם) is an entertainment brand focused on music videos and behind-the-scenes content (סטאפים). The website aims to serve as a platform for uploading and showcasing their clips and staff footage, functioning as a media hub for their creative content.
+
+---
+
+## Pages
+
+### בית
+https://seylous-fm-b814d41a.zappy5.app
+ברוך הבא למרכז התוכן של Seylous FM – צפה בקליפים מוזיקליים וסטאפים בלעדיים של פייבאם. גלה את הלהיטים הכי טריים, קליפים שוברי רשת, ותכני צוות סוחפים. היכנס עכשיו לחוויית המוזיקה האולטימטיבית!
+
+### קליפים
+https://seylous-fm-b814d41a.zappy5.app/clips
+ספריית הקליפים המלאה של Seylous FM מחכה לך – צפה במיטב היצירות המוזיקליות, כולל להיטי 2023 mtv video music awards. חוויית צפייה סוחפת, איכות מעולה, וכל התוכן הכי חם במקום אחד. היכנס עכשיו ותתמכר!
+
+### צילומי צוות
+https://seylous-fm-b814d41a.zappy5.app/staff-footage
+צלול לעולם הסטאפים של Seylous FM – צילומי צוות נדירים, רגעים מצחיקים, והצצה בלעדית אל מאחורי הקלעים של פייבאם. תוכן שלא תראה בשום מקום אחר. כנס עכשיו ותהיה חלק מהקסם!
+
+### אודות
+https://seylous-fm-b814d41a.zappy5.app/about
+הכירו את Seylous FM – מותג הבידור פייבאם שמביא לכם קליפים מוזיקליים וסטאפים סוחפים. גלו מי אנחנו, מה מניע אותנו, ולמה אנחנו הבחירה שלכם לתוכן מוזיקלי איכותי. קראו עוד עכשיו!
+
+### צור קשר
+https://seylous-fm-b814d41a.zappy5.app/contact
+צור קשר עם צוות Seylous FM – יש לך רעיון לקליפ, הצעה לשיתוף פעולה, או סתם רצון להגיד היי? נשמח לשמוע ממך! מלא את הטופס ותהיה חלק מעולם המוזיקה של פייבאם. פנה אלינו עכשיו!
+
+### תודה על פנייתך | Seylous FM
+https://seylous-fm-b814d41a.zappy5.app/thank-you
+Seylous FM - תודה על פנייתך | Seylous FM
+
+## Legal & Policy
+
+### Privacy Policy
+https://seylous-fm-b814d41a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://seylous-fm-b814d41a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://seylous-fm-b814d41a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://seylous-fm-b814d41a.zappy5.app/contact
+- Endpoint: https://seylous-fm-b814d41a.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Seylous FM
+Fiveam (פייבאם) is an entertainment brand focused on music videos and behind-the-scenes content (סטאפים). The website aims to serve as a platform for uploading and showcasing their clips and staff footage, functioning as a media hub for their creative content.
+
+## Target Audience
+- יוצרי קליפים
+- אמנים עצמאיים
+- חובבי מוזיקה
+
+## Industry
+Entertainment / Music Videos
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://seylous-fm-b814d41a.zappy5.app/sitemap.xml
+- Robots: https://seylous-fm-b814d41a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://seylous-fm-b814d41a.zappy5.app/llms-full.txt
